@@ -1,0 +1,30 @@
+# 内容：My Fish
+# 更新：2024-07-14 19:22
+# 数量：条
+
+# My Fish 完全匹配域名，例如 DOMAIN,google.com 匹配 google.com 但不匹配 www.google.com。
+#DOMAIN,atv-ps.amazon.com
+
+# My Fish 匹配域名后缀，例如 DOMAIN-SUFFIX,google.com 匹配 google.com 和 www.google.com。
+DOMAIN-SUFFIX,us.kg
+DOMAIN-SUFFIX,workers.dev
+
+# My Fish 关键词匹配域名，例如 DOMAIN-KEYWORD,google 匹配 google.com 和 google.jp。
+#DOMAIN-KEYWORD,abematv.akamaized.net
+
+# My Fish 匹配USER-AGENT，例如 USER-AGENT,All4* 匹配 USER-AGENT为All4*
+#USER-AGENT,All4*
+
+# My Fish 匹配URL-REGEX，例如 URL-REGEX,^https?:\/\/www\.amazon\.com\/(Amazon-Video|gp\/video)\/ 匹配网址为 https?:\/\/www\.amazon\.com\/(Amazon-Video|gp\/video)\/。
+#URL-REGEX,^https?:\/\/www\.amazon\.com\/(Amazon-Video|gp\/video)\/
+
+# My Fish GEOIP 规则用于根据数据包的目标 IP 地址的国家代码路由数据包. Clash 使用 MaxMind GeoLite2 数据库来实现这一功能.GEOIP,CN,policy 将任何目标 IP 地址为中国的数据包路由到 policy.
+#GEOIP,CN,policy
+
+# My Fish IP-CIDR 规则用于根据数据包的目标 IPv4 地址路由数据包.IP-CIDR,127.0.0.0/8,DIRECT 将任何目标 IP 地址为 127.0.0.0/8 的数据包路由到 DIRECT.
+#IP-CIDR,127.0.0.0/8,DIRECT
+
+# My Fish IP-CIDR6 规则用于根据数据包的目标 IPv6 地址路由数据包.IP-CIDR6,2620:0:2d0:200::7/32,policy 将任何目标 IP 地址为 2620:0:2d0:200::7/32 的数据包路由到 policy.
+#IP-CIDR6,2620:0:2d0:200::7/32,policy
+
+# 更多规则参阅：https://clash.wiki/configuration/rules.html#geoip-ip%E5%9C%B0%E7%90%86%E4%BD%8D%E7%BD%AE-%E5%9B%BD%E5%AE%B6%E4%BB%A3%E7%A0%81
