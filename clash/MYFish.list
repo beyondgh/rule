@@ -1,5 +1,5 @@
 # 内容：My Fish
-# 更新：2024-07-30 21:18
+# 更新：2024-08-05 18:34
 # 数量：条
 
 # My Fish 完全匹配域名，例如 DOMAIN,google.com 匹配 google.com 但不匹配 www.google.com。
@@ -21,7 +21,7 @@ DOMAIN-SUFFIX,z-library.rs
 
 # My Fish 关键词匹配域名，例如 DOMAIN-KEYWORD,google 匹配 google.com 和 google.jp。
 #DOMAIN-KEYWORD,abematv.akamaized.net
-DOMAIN-KEYWORD,z-library
+# DOMAIN-KEYWORD,z-library
 
 # My Fish 匹配USER-AGENT，例如 USER-AGENT,All4* 匹配 USER-AGENT为All4*
 #USER-AGENT,All4*
