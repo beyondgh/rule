@@ -8,6 +8,15 @@
 # My Fish 匹配域名后缀，例如 DOMAIN-SUFFIX,google.com 匹配 google.com 和 www.google.com。
 # DOMAIN-SUFFIX,us.kg
 DOMAIN-SUFFIX,workers.dev
+
+# z-library
+DOMAIN-KEYWORD,z-library
+DOMAIN-KEYWORD,zlibrary
+DOMAIN-KEYWORD,z-lib
+DOMAIN-KEYWORD,zlib
+DOMAIN-KEYWORD,singlelogin
+DOMAIN-KEYWORD,articles
+# DOMAIN-KEYWORD,
 DOMAIN-SUFFIX,z-library.rs
 
 # My Fish 关键词匹配域名，例如 DOMAIN-KEYWORD,google 匹配 google.com 和 google.jp。
