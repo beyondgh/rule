@@ -320,6 +320,9 @@ DOMAIN-SUFFIX,ximalaya.com
 DOMAIN-SUFFIX,xmcdn.com
 
 # Comic
+DOMAIN-KEYWORD,18-comic
+# DOMAIN-KEYWORD,18-comic-
+DOMAIN-KEYWORD,jmcomic
 DOMAIN-SUFFIX,18-comicblade.vip
 DOMAIN-SUFFIX,18comic-erdtree.org
 DOMAIN-SUFFIX,18-comic-minions.club
