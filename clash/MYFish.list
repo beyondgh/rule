@@ -11,9 +11,9 @@ DOMAIN-SUFFIX,workers.dev
 
 # z-library
 DOMAIN-KEYWORD,z-library
-DOMAIN-KEYWORD,zlibrary
-DOMAIN-KEYWORD,z-lib
-DOMAIN-KEYWORD,zlib
+# DOMAIN-KEYWORD,zlibrary
+# DOMAIN-KEYWORD,z-lib
+# DOMAIN-KEYWORD,zlib
 DOMAIN-KEYWORD,singlelogin
 DOMAIN-KEYWORD,articles
 # DOMAIN-KEYWORD,
