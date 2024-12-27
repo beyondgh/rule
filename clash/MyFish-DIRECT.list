@@ -1,16 +1,16 @@
 # 内容：My Fish DIRECT（放行）
-# 更新：2024-12-27 22:12
+# 更新：2024-12-27 22:32
 # 数量：条
 
 # My Fish 完全匹配域名，例如 DOMAIN,google.com 匹配 google.com 但不匹配 www.google.com。
 #DOMAIN,atv-ps.amazon.com
 
 # My Fish 匹配域名后缀，例如 DOMAIN-SUFFIX,google.com 匹配 google.com 和 www.google.com。
-DOMAIN-SUFFIX,adm.10jqka.com.cn
-DOMAIN-SUFFIX,eq.10jqka.com.cn
-DOMAIN-SUFFIX,ozone.10jqka.com.cn
-DOMAIN-SUFFIX,stat.10jqka.com.cn
-DOMAIN-SUFFIX,vaserviece.10jqka.com.cn
+#DOMAIN-SUFFIX,adm.10jqka.com.cn
+#DOMAIN-SUFFIX,eq.10jqka.com.cn
+#DOMAIN-SUFFIX,ozone.10jqka.com.cn
+#DOMAIN-SUFFIX,stat.10jqka.com.cn
+#DOMAIN-SUFFIX,vaserviece.10jqka.com.cn
 
 # My Fish 关键词匹配域名，例如 DOMAIN-KEYWORD,google 匹配 google.com 和 google.jp。
 #DOMAIN-KEYWORD,abematv.akamaized.net
