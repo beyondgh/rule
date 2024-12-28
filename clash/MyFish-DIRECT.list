@@ -11,6 +11,8 @@
 #DOMAIN-SUFFIX,ozone.10jqka.com.cn
 #DOMAIN-SUFFIX,stat.10jqka.com.cn
 #DOMAIN-SUFFIX,vaserviece.10jqka.com.cn
+DOMAIN-SUFFIX,cs.10jqka.com.cn
+DOMAIN-SUFFIX,cbasspider.10jqka.com.cn
 
 # My Fish 关键词匹配域名，例如 DOMAIN-KEYWORD,google 匹配 google.com 和 google.jp。
 #DOMAIN-KEYWORD,abematv.akamaized.net
