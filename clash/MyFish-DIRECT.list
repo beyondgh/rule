@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,zntg.10jqka.com.cn
 # My Fish 关键词匹配域名，例如 DOMAIN-KEYWORD,google 匹配 google.com 和 google.jp。
 #DOMAIN-KEYWORD,abematv.akamaized.net
 # DOMAIN-KEYWORD,z-library
+DOMAIN-KEYWORD,10jqka.com.cn
 
 # My Fish 匹配USER-AGENT，例如 USER-AGENT,All4* 匹配 USER-AGENT为All4*
 #USER-AGENT,All4*
