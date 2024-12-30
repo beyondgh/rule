@@ -6,11 +6,11 @@
 #DOMAIN,atv-ps.amazon.com
 
 # My Fish 匹配域名后缀，例如 DOMAIN-SUFFIX,google.com 匹配 google.com 和 www.google.com。
-#DOMAIN-SUFFIX,adm.10jqka.com.cn
-#DOMAIN-SUFFIX,eq.10jqka.com.cn
-#DOMAIN-SUFFIX,ozone.10jqka.com.cn
-#DOMAIN-SUFFIX,stat.10jqka.com.cn
-#DOMAIN-SUFFIX,vaserviece.10jqka.com.cn
+DOMAIN-SUFFIX,adm.10jqka.com.cn
+DOMAIN-SUFFIX,eq.10jqka.com.cn
+DOMAIN-SUFFIX,ozone.10jqka.com.cn
+DOMAIN-SUFFIX,stat.10jqka.com.cn
+DOMAIN-SUFFIX,vaserviece.10jqka.com.cn
 DOMAIN-SUFFIX,cs.10jqka.com.cn
 DOMAIN-SUFFIX,cbasspider.10jqka.com.cn
 
