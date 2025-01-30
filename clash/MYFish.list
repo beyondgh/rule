@@ -1,5 +1,5 @@
 # 内容：My Fish
-# 更新：2024-08-05 18:34
+# 更新：2025-01-30 22:58
 # 数量：条
 
 # My Fish 完全匹配域名，例如 DOMAIN,google.com 匹配 google.com 但不匹配 www.google.com。
@@ -8,6 +8,7 @@
 # My Fish 匹配域名后缀，例如 DOMAIN-SUFFIX,google.com 匹配 google.com 和 www.google.com。
 # DOMAIN-SUFFIX,us.kg
 DOMAIN-SUFFIX,workers.dev
+DOMAIN-SUFFIX,missav.ws
 
 # z-library
 DOMAIN-KEYWORD,z-library
