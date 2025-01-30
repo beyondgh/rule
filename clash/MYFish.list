@@ -1,5 +1,5 @@
 # 内容：My Fish
-# 更新：2025-01-30 22:58
+# 更新：2025-01-30 23:02
 # 数量：条
 
 # My Fish 完全匹配域名，例如 DOMAIN,google.com 匹配 google.com 但不匹配 www.google.com。
@@ -16,8 +16,8 @@ DOMAIN-KEYWORD,z-library
 # DOMAIN-KEYWORD,zlibrary
 # DOMAIN-KEYWORD,z-lib
 # DOMAIN-KEYWORD,zlib
-DOMAIN-KEYWORD,singlelogin
-DOMAIN-KEYWORD,articles
+#DOMAIN-KEYWORD,singlelogin
+#DOMAIN-KEYWORD,articles
 # DOMAIN-KEYWORD,
 DOMAIN-SUFFIX,z-library.rs
 
