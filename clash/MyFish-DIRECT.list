@@ -1,5 +1,5 @@
 # 内容：My Fish DIRECT（放行）
-# 更新：2024-12-30 22:43
+# 更新：2025-02-16 01:40
 # 数量：条
 
 # My Fish 完全匹配域名，例如 DOMAIN,google.com 匹配 google.com 但不匹配 www.google.com。
@@ -32,6 +32,7 @@ DOMAIN-KEYWORD,10jqka.com.cn
 
 # My Fish IP-CIDR 规则用于根据数据包的目标 IPv4 地址路由数据包.IP-CIDR,127.0.0.0/8,DIRECT 将任何目标 IP 地址为 127.0.0.0/8 的数据包路由到 DIRECT.
 #IP-CIDR,127.0.0.0/8,DIRECT
+IP-CIDR,172.17.0.0/16,DIRECT
 
 # My Fish IP-CIDR6 规则用于根据数据包的目标 IPv6 地址路由数据包.IP-CIDR6,2620:0:2d0:200::7/32,policy 将任何目标 IP 地址为 2620:0:2d0:200::7/32 的数据包路由到 policy.
 #IP-CIDR6,2620:0:2d0:200::7/32,policy
