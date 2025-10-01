@@ -13,11 +13,11 @@
 172.67.0.0#【MY】13
 162.159.0.0#【MY】14
 127.0.0.1:9234#【MY】[CFNat-ALL]
-127.0.0.1:1234#【MY】[CFNat-1-Asia-Other]
+127.0.0.1:1234#【MY】[CFNat-Asia-Other-1]
 127.0.0.1:2234#【MY】[CFNat-2-SJC]
 127.0.0.1:3234#【MY】[CFNat-3-FRA]
 127.0.0.1:4234#【MY】[CFNat-4-AMS]
-127.0.0.1:5234#【MY】[CFNat-5-Asia-SIN]
+127.0.0.1:5234#【MY】[CFNat-Asia-SIN-5]
 127.0.0.1:6234#【MY】[CFNat-6-LAX]
 127.0.0.1:7234#【MY】[CFNat-7-Other]
 shopify.com#【MY】[shopify.com]
@@ -38,6 +38,7 @@ www.visakorea.com#【MY】[www.visakorea.com]
 www.gco.gov.qa#【MY】[www.gco.gov.qa]
 www.gov.se#【MY】[www.gov.se]
 www.gov.ua#【MY】[www.gov.ua]
+
 
 
 
