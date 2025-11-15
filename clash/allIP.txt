@@ -21,7 +21,7 @@
 127.0.0.1:5234#【MY】[CFNat-5-FRA]
 127.0.0.1:6234#【MY】[CFNat-6-AMS]
 127.0.0.1:7234#【MY】[CFNat-7-LAX]
-127.0.0.1:8234#【MY】[CFNat-8-Other]
+127.0.0.1:8234#【MY】[CFNat-8-JP]
 shopify.com#【MY】[shopify.com]
 time.is#【MY】[time.is]
 icook.hk#【MY】[icook.hk]
@@ -40,6 +40,7 @@ www.visakorea.com#【MY】[www.visakorea.com]
 www.gco.gov.qa#【MY】[www.gco.gov.qa]
 www.gov.se#【MY】[www.gov.se]
 www.gov.ua#【MY】[www.gov.ua]
+
 
 
 
