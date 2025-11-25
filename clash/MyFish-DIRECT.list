@@ -1,5 +1,5 @@
 # 内容：My Fish DIRECT（放行）
-# 更新：2025-02-16 01:40
+# 更新：2025-11-25 20:46
 # 数量：条
 
 # My Fish 完全匹配域名，例如 DOMAIN,google.com 匹配 google.com 但不匹配 www.google.com。
@@ -16,11 +16,13 @@
 DOMAIN-SUFFIX,10jqka.com.cn
 DOMAIN-SUFFIX,zntg.10jqka.com.cn
 DOMAIN-SUFFIX,apphot.cc
+DOMAIN-SUFFIX,mygfw.dpdns.org
 
 # My Fish 关键词匹配域名，例如 DOMAIN-KEYWORD,google 匹配 google.com 和 google.jp。
 #DOMAIN-KEYWORD,abematv.akamaized.net
 # DOMAIN-KEYWORD,z-library
 DOMAIN-KEYWORD,10jqka.com.cn
+DOMAIN-KEYWORD,mygfw
 
 # My Fish 匹配USER-AGENT，例如 USER-AGENT,All4* 匹配 USER-AGENT为All4*
 #USER-AGENT,All4*
